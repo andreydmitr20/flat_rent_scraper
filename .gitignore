@@ -3,3 +3,4 @@ sources/private_info.json
 sources/criteria.json
 old/*
 .idea/*
+sources/__pycache__/*

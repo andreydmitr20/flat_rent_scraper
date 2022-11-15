@@ -1,5 +1,6 @@
 # flat_rent_scraper
-Collects flat rent proposals from different sites using parameters from the 'criteria.json' file. 
+Collects flat rent proposals from different sites using parameters from the 'criteria.json' file
+and sends them to a Telegram group. 
 
 ## 1. You should create a parameters file named 'criteria.json'.
 

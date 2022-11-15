@@ -1,0 +1,5 @@
+sources/scraper.csv
+sources/private_info.json
+sources/criteria.json
+old/*
+.idea/*

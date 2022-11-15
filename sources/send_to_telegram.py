@@ -57,6 +57,7 @@ if __name__ == "__main__":
     #     '/media/hdd/KURSUVODUPROGRAMIRANJE/MY/MY_SCRAPER/site_interface.py',
     #     1)
     # send_message_to_telegram('bot test', 1)
+
     tlg=TelegramBot()
     tlg.send_message_to_telegram(datetime.datetime.strftime(
         datetime.datetime.now(), '%Y-%m-%d No new items'
